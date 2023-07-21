@@ -1,6 +1,6 @@
 # complete-responsive-webpage-using-Bootstrap
-## link <br> https://poorani-27.github.io/complete-responsive-webpage-using-Bootstrap/ 
-
+## link <br>  
+https://poorani-27.github.io/responsive-webpage-using-Bootstrap/
 
 ## Description
 
