@@ -95,7 +95,54 @@ p{
     border: 2px solid black;
 
 }
+/************social media links **********/
+.social{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-block: 10px;
+    gap: 5px;
+    width: 300px;
+    font-size: 50px;
+   
+}
+.fa-facebook{
+    color: blue;
+    height: auto;
+    padding: 9px;
+    cursor: pointer;
+}
+.fa-facebook:hover{
+    color: rgb(0, 0, 0);
+    height: auto;
+    padding: 9px;
+    transform: scale(1.02);
 
+}
+.fa-instagram{
+    color: rgb(255, 0, 225);
+    height: auto;
+    padding: 9px;
+    cursor: pointer;
+}
+.fa-instagram:hover{
+    color: rgb(0, 0, 0);
+    height: auto;
+    padding: 9px;
+    transform: scale(1.02);
+}
+.fa-telegram{
+    color: rgb(0, 149, 255);
+    height: auto;
+    padding: 9px;
+     cursor: pointer;
+}
+.fa-telegram:hover{
+    color: rgb(0, 0, 0);
+    height: auto;
+    padding: 9px;
+    transform: scale(1.02);
+}
 
 /*****************services**********/
 .inner{
