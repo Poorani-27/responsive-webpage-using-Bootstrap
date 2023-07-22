@@ -210,4 +210,10 @@ height: 150px;
 width: 150px;
 object-fit: cover;
     }
+    .social{
+        display: flex;
+        flex-direction: column;
+        font-size: 40px;
+       margin-left: -100px;
+    }
 }
